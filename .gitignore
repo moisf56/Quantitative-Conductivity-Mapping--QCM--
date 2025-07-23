@@ -1,0 +1,51 @@
+# MATLAB files
+*.asv
+*.m~
+*_old.m
+*_backup.m
+
+# MATLAB temporary files
+*.autosave
+
+# Data files (large medical datasets)
+*.mat
+data/
+datasets/
+phantom_data/
+*.dcm
+*.nii
+*.nii.gz
+
+# Results and outputs
+results/
+output/
+conductivity_maps/
+*.fig
+*.eps
+*.pdf
+*.png
+*.jpg
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation build
+docs/_build/
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Backup files
+*~
+*.orig
+*.bak

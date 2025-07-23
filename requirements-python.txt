@@ -1,0 +1,8 @@
+# Python dependencies (if extending to Python analysis)
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.5.0
+nibabel>=3.2.0        # For medical imaging formats
+scikit-image>=0.19.0  # Image processing
+pandas>=1.3.0         # Data analysis
+jupyter>=1.0.0        # Notebook support
